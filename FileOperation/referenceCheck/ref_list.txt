@@ -1,0 +1,36 @@
+R. Pelrine, R. Kornbluh, Q. Pei, and J. Joseph, Science 287, 836 (2000).
+R. Pelrine, R. Kornbluh, J. Joseph, R. Heydt, Q. Pei, and S. Chiba, Materials Science and Engineering: C 11, 89 (2000).
+R. Pelrine, R. Kornbluh, and G. Kofod, Advanced Materials 12, 1223 (2000).
+R. Pelrine, R. Kornbluh, Q. Pei, S. Stanford, S. Oh, J. Eckerle, R. Full, M. Rosenthal, and K. Meijer, Proc. SPIE 4695, 126 (2002). 
+N. Galler, H. Ditlbacher, B. Steinberger, A. Hohenau, M. Dansachm¨¹ller, F. Camacho-Gonzales, S. Bauer, J.R. Krenn, A. Leitner, and Aussenegg, F. R. Applied Physics B 85, 7 (2006).
+S. Shian, R. M. Diebold, and D. R. Clarke, Optics express 21, 8669 (2013).
+F. Carpi, G. Frediani, S. Turco, and D. De Rossi, Advanced Functional Materials 21, 4152 (2011).
+F. Carpi, R. Kornbluh, P. Sommer-Larsen, and G. Alici, Bioinspiration & biomimetics 6, 045006 (2011).
+S. I. Son, D. Pugal, T. Hwang, H. R. Choi, J. C. Koo, Y. Lee, K. Kim, and J. D. Nam, Applied optics 51, 2987 (2012).
+P. Brochu, and Q. Pei, Macromolecular rapid communications 31, 10 (2010).
+I. A. Anderson, T. A. Gisby, T. G. McKay, B. M. O¡¯Brien, and E. P. Calius, Journal of Applied Physics 112, 041101 (2012).
+J. Rossiter, P. Walters, and B. Stoimenov, Proc. SPIE 7287, 72870H (2009).
+H. R. Choi, S. M. Ryew, K. M. Jung, H. M. Kim, J. W. Jeon, J. D. Nam, R. Maeda and K. Tanie, Proc. ICRA 3, 3212 (2002).
+R. Pelrine, R. D. Kornbluh, J. Eckerle, P. Jeuck, S. Oh, Q. Pei, and S. Stanford, Proc. SPIE 4329, 148 (2001).
+R. E. Pelrine, R. D. Kornbluh, J. S. Eckerle, and Q. Pei, U.S. Patent No. 6,628,040, (2003).
+S. Chiba, M. Waki, R. Kornbluh, and R. Pelrine, OCEANS 2009-EUROPE, 1 (2009).
+S. Chiba, M. Waki, T. Wada, Y. Hirakawa, K. Masuda, and T. Ikoma, Applied Energy 104, 497 (2013).
+R. Vertechy, M. Fontana, G. R. Papini, and M. Bergamasco, Proc. SPIE 8687, 86870I (2013).
+R. Vertechy, M. Fontana, G. R. Papini, and D. Forehand, Proc. SPIE 9056, 90561G (2014).
+J. Maas, and C. Graf, Smart Materials and Structures 21, 064006 (2012).
+M. Wissler, and E. Mazza, Sensors and Actuators A: Physical 138, 384 (2007).
+M. Wissler, and E. Mazza, Sensors and Actuators A: Physical 134, 494 (2007).
+R. Shankar, T. K. Ghosh, and R. J. Spontak, Sensors and Actuators A: Physical 151, 46 (2009). 
+M. Pharr, J. Y. Sun, and Z. Suo, Journal of Applied Physics 111, 104114 (2012).
+A. Schmidt, P. Rothemund, and E. Mazza, Sensors and Actuators A: Physical 174, 133 (2012).
+R. K. Sahu, and K. Patra, Mechanics of Advanced Materials and Structures 23, 170 (2016).
+A. G. Thomas, Journal of Polymer Science 31, 467 (1958).
+G. J. Lake, and P. B. Lindley, Journal of Applied Polymer Science 9, 1233 (1965).
+A. N. Gent, P. B. Lindley, and A. G. Thomas, Journal of Applied Polymer Science 8, 455 (1964).
+G. J. Lake, and P. B. Lindley, Journal of Applied Polymer Science 8, 707 (1964).
+J. H. Fielding, Industrial & Engineering Chemistry 35, 1259 (1943).
+P. B. Lindley, Rubber Chemistry and Technology 47, 1253 (1974).
+R. S. Rivlin, and A. G. Thomas, Journal of Polymer Science 10, 291 (1953).
+D. G. Young, Rubber chemistry and technology 58, 785 (1985).
+R. Kaltseis, C. Keplinger, S. J. A. Koh, R. Baumgartner, Y. F. Goh, W. H. Ng, A. Kogler, A. Tr?ls, C. C. Foo, Z. Suo, and S. Bauer, RSC Advances 4, 27905 (2014).
+P. B. Lindley, The Journal of Strain Analysis for Engineering Design 7, 132 (1972).
